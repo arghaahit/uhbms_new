@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\UHBMS\\ahbmss\\build\\local_auth_android\\intermediates\\merged_res\\release\\animator\\fragment_close_enter.xml",
+        "source": "C:\\Users\\argha\\.gradle\\caches\\transforms-3\\ca89f8ce8bf3002a8ccce425238728cf\\transformed\\fragment-1.5.4\\res\\animator\\fragment_close_enter.xml"
+    },
+    {
+        "merged": "D:\\UHBMS\\ahbmss\\build\\local_auth_android\\intermediates\\merged_res\\release\\animator\\fragment_fade_exit.xml",
+        "source": "C:\\Users\\argha\\.gradle\\caches\\transforms-3\\ca89f8ce8bf3002a8ccce425238728cf\\transformed\\fragment-1.5.4\\res\\animator\\fragment_fade_exit.xml"
+    },
+    {
+        "merged": "D:\\UHBMS\\ahbmss\\build\\local_auth_android\\intermediates\\merged_res\\release\\animator\\fragment_fade_enter.xml",
+        "source": "C:\\Users\\argha\\.gradle\\caches\\transforms-3\\ca89f8ce8bf3002a8ccce425238728cf\\transformed\\fragment-1.5.4\\res\\animator\\fragment_fade_enter.xml"
+    },
+    {
+        "merged": "D:\\UHBMS\\ahbmss\\build\\local_auth_android\\intermediates\\merged_res\\release\\animator\\fragment_open_enter.xml",
+        "source": "C:\\Users\\argha\\.gradle\\caches\\transforms-3\\ca89f8ce8bf3002a8ccce425238728cf\\transformed\\fragment-1.5.4\\res\\animator\\fragment_open_enter.xml"
+    },
+    {
+        "merged": "D:\\UHBMS\\ahbmss\\build\\local_auth_android\\intermediates\\merged_res\\release\\animator\\fragment_close_exit.xml",
+        "source": "C:\\Users\\argha\\.gradle\\caches\\transforms-3\\ca89f8ce8bf3002a8ccce425238728cf\\transformed\\fragment-1.5.4\\res\\animator\\fragment_close_exit.xml"
+    },
+    {
+        "merged": "D:\\UHBMS\\ahbmss\\build\\local_auth_android\\intermediates\\merged_res\\release\\animator\\fragment_open_exit.xml",
+        "source": "C:\\Users\\argha\\.gradle\\caches\\transforms-3\\ca89f8ce8bf3002a8ccce425238728cf\\transformed\\fragment-1.5.4\\res\\animator\\fragment_open_exit.xml"
+    }
+]
